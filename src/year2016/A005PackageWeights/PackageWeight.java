@@ -1,3 +1,5 @@
+package year2016.A005PackageWeights;
+
 import java.util.Scanner;
 import java.io.FileNotFoundException;
 import java.io.FileInputStream;

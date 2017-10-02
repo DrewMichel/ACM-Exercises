@@ -1,3 +1,5 @@
+package year2016.A001DimWeights;
+
 import java.util.Scanner;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

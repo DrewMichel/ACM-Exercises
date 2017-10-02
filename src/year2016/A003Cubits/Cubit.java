@@ -1,3 +1,5 @@
+package year2016.A003Cubits;
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.FileNotFoundException;

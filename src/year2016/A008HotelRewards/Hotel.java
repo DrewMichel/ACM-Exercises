@@ -1,3 +1,5 @@
+package year2016.A008HotelRewards;
+
 import java.util.*;
 import java.io.*;
 

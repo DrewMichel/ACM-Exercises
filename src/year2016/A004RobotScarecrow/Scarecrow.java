@@ -1,3 +1,5 @@
+package year2016.A004RobotScarecrow;
+
 import java.util.Scanner;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;

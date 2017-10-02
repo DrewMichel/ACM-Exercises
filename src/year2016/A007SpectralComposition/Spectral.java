@@ -1,3 +1,5 @@
+package year2016.A007SpectralComposition;
+
 import java.util.*;
 import java.io.*;
 

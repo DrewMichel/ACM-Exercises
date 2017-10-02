@@ -1,3 +1,5 @@
+package year2016.A006SavagePokemon;
+
 import java.util.*;
 import java.io.*;
 

@@ -1,3 +1,5 @@
+package year2016.A002ThiefFWX;
+
 import java.util.Scanner;
 public class The
 {

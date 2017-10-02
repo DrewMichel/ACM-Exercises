@@ -1,3 +1,5 @@
+package year2015.A001MagicalThree;
+
 import java.util.*;
 import java.io.*;
 
